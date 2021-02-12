@@ -1,7 +1,11 @@
 # <Project#3 : OOP for Billiard Game>
 @DirectX 3D로 구현한 당구 게임입니다.
 
-@팀프로젝트로, report 내용과 유사합니다.
+@더 자세한 내용은 'VirtualBilliard_report.pdf' 파일을 참고하시길 바랍니다.
+
+@실행파일은 'VirtualLego.exe'입니다.
+
+@Team Project입니다.
 
 #
  	1. 설계 방향
